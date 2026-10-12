@@ -1,0 +1,17 @@
+{
+  "name": "TrustLedger Multi-Language SAST Benchmark",
+  "version": "1.0.0",
+  "language_targets": [
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "Python",
+    "C#",
+    "PHP",
+    "Go",
+    "Rust",
+    "Ruby"
+  ],
+  "fixture_files": 53,
+  "purpose": "Intentional static-analysis fixtures; not for deployment."
+}
